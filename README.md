@@ -61,4 +61,4 @@ Please note, this list is not complete, and is not an endorsement.
 
 ## Download
 
-You can find the latest releases and precompiled binaries on GitHub under [Releases](https://github.com/fireice-uk/xmr-stak/releases).
+You can find the latest releases and precompiled binaries on GitHub under [Releases](https://github.com/MarketCashME/XMR-Stak/releases).
